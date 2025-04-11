@@ -8,7 +8,7 @@ This project is a fully functional blogging website with features like user auth
 
 ## Live Link 
 
-Website :https://blogwhiz-website-frontend.vercel.app/home
+Website : https://blogwhiz-website-frontend.vercel.app/home
 
 ## Features
 
